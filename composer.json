@@ -1,6 +1,6 @@
 {
     "name": "advil0/laravel-eloquent-query-cache",
-    "description": "Adding cache on your Laravel Eloquent queries' results is now a breeze.",
+    "description": "Forked version of renoki-co/laravel-eloquent-query-cache to support Laravel 10.",
     "keywords": [
         "laravel",
         "caching",
